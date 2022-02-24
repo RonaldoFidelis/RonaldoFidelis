@@ -9,8 +9,8 @@
 ##
 <div>
   <a href="https://github.com/RonaldoFidelis/github-readme-stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RonaldoFidelis"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoFidelis&langs_count=8]"/> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RonaldoFidelis&theme=algolia&show_icons=true&count_private=true"/>
+  <img width="45.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoFidelis&langs_count=8&theme=algolia"/> 
 <div/>
   
 ##
