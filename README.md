@@ -8,9 +8,9 @@
 
 ##
 <div>
-  <a href="https://github.com/RonaldoFidelis/github-readme-stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RonaldoFidelis&theme=algolia&show_icons=true&count_private=true"/>
-  <img width="45.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoFidelis&langs_count=8&theme=algolia"/> 
+  <a href="https://github.com/RonaldoFidelis">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RonaldoFidelis&show_icons=true&theme=algolia&include_all_commits&count_private=true"/>
+  <img width="45.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoFidelis&langs_count=16&theme=algolia"/> 
 <div/>
   
 ##
