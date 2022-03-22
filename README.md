@@ -16,7 +16,7 @@
 ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt=""Ronaldo-j" height=""30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/e7a43b91fd4a4f4b26fa8d1e41d910d27a17a5a9/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt=""Ronaldo-j" height=""30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/e7a43b91fd4a4f4b26fa8d1e41d910d27a17a5a9/icons/java/java-original.svg">
   <img align="center" alt="Ronaldo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ronaldo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ronaldo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
