@@ -10,8 +10,8 @@
 ## Analytics 
 <div>
   <a href="https://github.com/RonaldoFidelis">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=RonaldoFidelis&show_icons=true&theme=algolia&include_all_commits&count_private=true"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoFidelis&langs_count=16&theme=algolia&layout=compact"/> 
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=RonaldoFidelis&show_icons=true&theme=algolia&include_all_commits&count_private=true"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoFidelis&langs_count=16&theme=algolia&layout=compact"/> 
 <div/>
   
 ##
