@@ -1,17 +1,15 @@
 ### Hi dear! 👋, I'am Ronaldo Fidelis
-
 ##
 
 - 👨🏽‍💻 Front-end developer...
-- 🚀 Studying software engineering...
+- 🚀 Studying ADS...
 - 🙂 Pronouns: ele/dele ...
-
 
 ## Analytics 
 <div>
   <a style="text-decoration:none" href="https://github.com/RonaldoFidelis">
-  <img style="text-decoration:none" width="500px" height="300px" src="https://github-readme-stats.vercel.app/api?username=RonaldoFidelis&show_icons=true&theme=algolia&include_all_commits&count_private=true"/>
-  <img style="text-decoration:none" width="500px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoFidelis&langs_count=16&theme=algolia&layout=compact"/> 
+  <!--<img style="text-decoration:none" width="500px" height="300px" src="https://github-readme-stats.vercel.app/api?username=RonaldoFidelis&show_icons=true&theme=algolia&include_all_commits&count_private=true"/>-->
+  <img style="text-decoration:none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoFidelis&langs_count=16&theme=algolia&layout=compact"/> 
 <div/>
   
 ## Stack
