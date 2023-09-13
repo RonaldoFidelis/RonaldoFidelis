@@ -1,7 +1,8 @@
-# Olá! Eu sou o Ronaldo Fidelis 🖐️
+<h1 align=center> Olá! Eu sou o Ronaldo Fidelis 🖐️ </h1>
 
-- 👨🏽‍💻 Desenvolvedor 
-- 🚀 Graduando em Análise e desenvolvimento de sistemas
+> 👨🏽‍💻 Desenvolvedor Full Stack
+
+<br>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonaldoFidelis&show_icons=true&theme=algolia&include_all_commits&count_private=true"/>
