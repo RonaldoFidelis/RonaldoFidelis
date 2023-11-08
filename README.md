@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1> Olá! Eu sou o Ronaldo Fidelis 🖐️ </h1>
+  <h1> Oi! 🖐️ </h1>
   <a href="https://www.linkedin.com/in/ronaldo-fidelis-9922941a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:ronaldofidelis.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
